@@ -33,9 +33,9 @@ The Password Generator application displays a red button to "Generate Password".
 
 Password Generator Pic.png
 
-Here is the link to the deployed application;
+Here is the link to the deployed application; https://jason82autotech.github.io/Password-Generator/
 
-Here is the link to the Github site with code;
+Here is the link to the Github site with code; https://github.com/jason82autotech/Password-Generator
 
-All work is my own with help from Google, W3Schools and MDN Docs.
+All work is my own with help a tutoring session, classmates, from Google, W3Schools and MDN Docs.
 
