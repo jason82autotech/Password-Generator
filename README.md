@@ -31,7 +31,7 @@ The following image shows the web application's appearance and functionality:
 
 The Password Generator application displays a red button to "Generate Password".
 
-Password Generator Pic.png
+![Screen shot of deployed application](./assets/img/password-generator-screenshot.png)
 
 Here is the link to the deployed application; https://jason82autotech.github.io/Password-Generator/
 

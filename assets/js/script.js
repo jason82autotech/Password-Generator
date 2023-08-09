@@ -1,4 +1,4 @@
-// Assignment ode here
+// Assignment code here
 var generateBtn = document.querySelector("#generate");
 var password = document.querySelector("#password");
 
